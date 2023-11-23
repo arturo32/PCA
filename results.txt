@@ -1,323 +1,387 @@
 \hline
-brute\_force  &  4  -  2  &  0  &  9.489059448242188e-05  &  147   \\
-genetic\_algorithm  &  4  -  2  &  0  &  1.337634801864624  &  147   \\
-evolucionary\_algorithm  &  4  -  2  &  0  &  1.128037691116333  &  147   \\
-tabu\_search  &  4  -  2  &  0  &  0.00010275840759277344  &  355   \\
-simulated\_annealing  &  4  -  2  &  0  &  0.00011396408081054688  &  443   \\
-\hline
-brute\_force  &  4  -  2  &  1  &  7.510185241699219e-05  &  215   \\
-genetic\_algorithm  &  4  -  2  &  1  &  1.134739875793457  &  215   \\
-evolucionary\_algorithm  &  4  -  2  &  1  &  1.1271460056304932  &  215   \\
-tabu\_search  &  4  -  2  &  1  &  5.030632019042969e-05  &  338   \\
-simulated\_annealing  &  4  -  2  &  1  &  0.00012087821960449219  &  271   \\
-\hline
-brute\_force  &  4  -  2  &  2  &  0.00013375282287597656  &  133   \\
-genetic\_algorithm  &  4  -  2  &  2  &  1.254298210144043  &  137   \\
-evolucionary\_algorithm  &  4  -  2  &  2  &  1.136258840560913  &  137   \\
-tabu\_search  &  4  -  2  &  2  &  3.790855407714844e-05  &  141   \\
-simulated\_annealing  &  4  -  2  &  2  &  0.00010204315185546875  &  241   \\
-\hline
-\hline
-brute\_force  &  4  -  3  &  0  &  0.00023674964904785156  &  109   \\
-genetic\_algorithm  &  4  -  3  &  0  &  1.422853946685791  &  109   \\
-evolucionary\_algorithm  &  4  -  3  &  0  &  1.2935817241668701  &  109   \\
-tabu\_search  &  4  -  3  &  0  &  5.1975250244140625e-05  &  299   \\
-simulated\_annealing  &  4  -  3  &  0  &  0.00012922286987304688  &  331   \\
-\hline
-brute\_force  &  4  -  3  &  1  &  0.00033783912658691406  &  98   \\
-genetic\_algorithm  &  4  -  3  &  1  &  1.3421292304992676  &  110   \\
-evolucionary\_algorithm  &  4  -  3  &  1  &  1.395956039428711  &  110   \\
-tabu\_search  &  4  -  3  &  1  &  4.601478576660156e-05  &  367   \\
-simulated\_annealing  &  4  -  3  &  1  &  0.00011801719665527344  &  448   \\
-\hline
-brute\_force  &  4  -  3  &  2  &  0.0003190040588378906  &  126   \\
-genetic\_algorithm  &  4  -  3  &  2  &  1.3143348693847656  &  126   \\
-evolucionary\_algorithm  &  4  -  3  &  2  &  1.2794971466064453  &  126   \\
-tabu\_search  &  4  -  3  &  2  &  4.6253204345703125e-05  &  253   \\
-simulated\_annealing  &  4  -  3  &  2  &  0.00010395050048828125  &  312   \\
-\hline
-\hline
-brute\_force  &  4  -  4  &  0  &  0.001074075698852539  &  63   \\
-genetic\_algorithm  &  4  -  4  &  0  &  1.1814427375793457  &  192   \\
-evolucionary\_algorithm  &  4  -  4  &  0  &  1.2487151622772217  &  192   \\
-tabu\_search  &  4  -  4  &  0  &  4.100799560546875e-05  &  88   \\
-simulated\_annealing  &  4  -  4  &  0  &  9.894371032714844e-05  &  437   \\
-\hline
-brute\_force  &  4  -  4  &  1  &  0.0007600784301757812  &  138   \\
-genetic\_algorithm  &  4  -  4  &  1  &  1.1491608619689941  &  138   \\
-evolucionary\_algorithm  &  4  -  4  &  1  &  1.2343809604644775  &  138   \\
-tabu\_search  &  4  -  4  &  1  &  4.1961669921875e-05  &  417   \\
-simulated\_annealing  &  4  -  4  &  1  &  0.0001361370086669922  &  366   \\
-\hline
-brute\_force  &  4  -  4  &  2  &  0.0008299350738525391  &  86   \\
-genetic\_algorithm  &  4  -  4  &  2  &  1.193284034729004  &  160   \\
-evolucionary\_algorithm  &  4  -  4  &  2  &  1.225024938583374  &  160   \\
-tabu\_search  &  4  -  4  &  2  &  3.790855407714844e-05  &  244   \\
-simulated\_annealing  &  4  -  4  &  2  &  9.918212890625e-05  &  347   \\
-\hline
-\hline
-brute\_force  &  5  -  2  &  0  &  0.0004572868347167969  &  156   \\
-genetic\_algorithm  &  5  -  2  &  0  &  1.1950130462646484  &  156   \\
-evolucionary\_algorithm  &  5  -  2  &  0  &  1.230186939239502  &  156   \\
-tabu\_search  &  5  -  2  &  0  &  0.00010395050048828125  &  372   \\
-simulated\_annealing  &  5  -  2  &  0  &  0.00031495094299316406  &  413   \\
-\hline
-brute\_force  &  5  -  2  &  1  &  0.00047016143798828125  &  49   \\
-genetic\_algorithm  &  5  -  2  &  1  &  1.1693508625030518  &  49   \\
-evolucionary\_algorithm  &  5  -  2  &  1  &  1.2133152484893799  &  49   \\
-tabu\_search  &  5  -  2  &  1  &  8.893013000488281e-05  &  293   \\
-simulated\_annealing  &  5  -  2  &  1  &  0.0002799034118652344  &  333   \\
-\hline
-brute\_force  &  5  -  2  &  2  &  0.0006628036499023438  &  148   \\
-genetic\_algorithm  &  5  -  2  &  2  &  1.195326805114746  &  187   \\
-evolucionary\_algorithm  &  5  -  2  &  2  &  1.2035539150238037  &  187   \\
-tabu\_search  &  5  -  2  &  2  &  9.393692016601562e-05  &  474   \\
-simulated\_annealing  &  5  -  2  &  2  &  0.0002779960632324219  &  413   \\
-\hline
-\hline
-brute\_force  &  5  -  3  &  0  &  0.003340005874633789  &  122   \\
-genetic\_algorithm  &  5  -  3  &  0  &  1.208869218826294  &  277   \\
-evolucionary\_algorithm  &  5  -  3  &  0  &  1.302628993988037  &  315   \\
-tabu\_search  &  5  -  3  &  0  &  0.00010085105895996094  &  246   \\
-simulated\_annealing  &  5  -  3  &  0  &  0.0002739429473876953  &  252   \\
-\hline
-brute\_force  &  5  -  3  &  1  &  0.0035698413848876953  &  214   \\
-genetic\_algorithm  &  5  -  3  &  1  &  1.2837629318237305  &  306   \\
-evolucionary\_algorithm  &  5  -  3  &  1  &  1.2156310081481934  &  268   \\
-tabu\_search  &  5  -  3  &  1  &  9.894371032714844e-05  &  292   \\
-simulated\_annealing  &  5  -  3  &  1  &  0.0002808570861816406  &  493   \\
-\hline
-brute\_force  &  5  -  3  &  2  &  0.003251791000366211  &  162   \\
-genetic\_algorithm  &  5  -  3  &  2  &  1.2610011100769043  &  192   \\
-evolucionary\_algorithm  &  5  -  3  &  2  &  1.1795001029968262  &  194   \\
-tabu\_search  &  5  -  3  &  2  &  0.00011110305786132812  &  436   \\
-simulated\_annealing  &  5  -  3  &  2  &  0.00031065940856933594  &  324   \\
-\hline
-\hline
-brute\_force  &  5  -  4  &  0  &  0.012409210205078125  &  53   \\
-genetic\_algorithm  &  5  -  4  &  0  &  1.2482609748840332  &  130   \\
-evolucionary\_algorithm  &  5  -  4  &  0  &  1.1420691013336182  &  104   \\
-tabu\_search  &  5  -  4  &  0  &  9.393692016601562e-05  &  351   \\
-simulated\_annealing  &  5  -  4  &  0  &  0.0003948211669921875  &  324   \\
-\hline
-brute\_force  &  5  -  4  &  1  &  0.011487245559692383  &  90   \\
-genetic\_algorithm  &  5  -  4  &  1  &  1.2418670654296875  &  169   \\
-evolucionary\_algorithm  &  5  -  4  &  1  &  1.1670148372650146  &  123   \\
-tabu\_search  &  5  -  4  &  1  &  0.00010418891906738281  &  405   \\
-simulated\_annealing  &  5  -  4  &  1  &  0.0003261566162109375  &  298   \\
-\hline
-brute\_force  &  5  -  4  &  2  &  0.013363122940063477  &  127   \\
-genetic\_algorithm  &  5  -  4  &  2  &  1.3981361389160156  &  213   \\
-evolucionary\_algorithm  &  5  -  4  &  2  &  1.1343059539794922  &  217   \\
-tabu\_search  &  5  -  4  &  2  &  0.00011610984802246094  &  340   \\
-simulated\_annealing  &  5  -  4  &  2  &  0.0003311634063720703  &  564   \\
-\hline
-\hline
-brute\_force  &  6  -  2  &  0  &  0.00469207763671875  &  168   \\
-genetic\_algorithm  &  6  -  2  &  0  &  1.2129461765289307  &  208   \\
-evolucionary\_algorithm  &  6  -  2  &  0  &  1.308915138244629  &  227   \\
-tabu\_search  &  6  -  2  &  0  &  0.00025010108947753906  &  189   \\
-simulated\_annealing  &  6  -  2  &  0  &  0.0004038810729980469  &  458   \\
-\hline
-brute\_force  &  6  -  2  &  1  &  0.005719184875488281  &  188   \\
-genetic\_algorithm  &  6  -  2  &  1  &  1.254497766494751  &  200   \\
-evolucionary\_algorithm  &  6  -  2  &  1  &  1.302088975906372  &  200   \\
-tabu\_search  &  6  -  2  &  1  &  0.00023603439331054688  &  445   \\
-simulated\_annealing  &  6  -  2  &  1  &  0.00037384033203125  &  437   \\
-\hline
-brute\_force  &  6  -  2  &  2  &  0.004956245422363281  &  156   \\
-genetic\_algorithm  &  6  -  2  &  2  &  1.4203503131866455  &  195   \\
-evolucionary\_algorithm  &  6  -  2  &  2  &  1.2100229263305664  &  197   \\
-tabu\_search  &  6  -  2  &  2  &  0.00018787384033203125  &  245   \\
-simulated\_annealing  &  6  -  2  &  2  &  0.0003452301025390625  &  334   \\
-\hline
-\hline
-brute\_force  &  6  -  3  &  0  &  0.04216885566711426  &  101   \\
-genetic\_algorithm  &  6  -  3  &  0  &  1.4619770050048828  &  285   \\
-evolucionary\_algorithm  &  6  -  3  &  0  &  1.263164758682251  &  304   \\
-tabu\_search  &  6  -  3  &  0  &  0.000225067138671875  &  328   \\
-simulated\_annealing  &  6  -  3  &  0  &  0.0003409385681152344  &  343   \\
-\hline
-brute\_force  &  6  -  3  &  1  &  0.04508805274963379  &  105   \\
-genetic\_algorithm  &  6  -  3  &  1  &  1.1823060512542725  &  302   \\
-evolucionary\_algorithm  &  6  -  3  &  1  &  1.3141419887542725  &  278   \\
-tabu\_search  &  6  -  3  &  1  &  0.00016498565673828125  &  271   \\
-simulated\_annealing  &  6  -  3  &  1  &  0.0003299713134765625  &  503   \\
-\hline
-brute\_force  &  6  -  3  &  2  &  0.050206899642944336  &  165   \\
-genetic\_algorithm  &  6  -  3  &  2  &  1.2177579402923584  &  244   \\
-evolucionary\_algorithm  &  6  -  3  &  2  &  1.2245876789093018  &  223   \\
-tabu\_search  &  6  -  3  &  2  &  0.00019979476928710938  &  262   \\
-simulated\_annealing  &  6  -  3  &  2  &  0.0003142356872558594  &  295   \\
-\hline
-\hline
-brute\_force  &  6  -  4  &  0  &  0.24944114685058594  &  127   \\
-genetic\_algorithm  &  6  -  4  &  0  &  1.2589259147644043  &  227   \\
-evolucionary\_algorithm  &  6  -  4  &  0  &  1.363948106765747  &  234   \\
-tabu\_search  &  6  -  4  &  0  &  0.0001862049102783203  &  390   \\
-simulated\_annealing  &  6  -  4  &  0  &  0.0003349781036376953  &  348   \\
-\hline
-brute\_force  &  6  -  4  &  1  &  0.2400951385498047  &  92   \\
-genetic\_algorithm  &  6  -  4  &  1  &  1.4128530025482178  &  306   \\
-evolucionary\_algorithm  &  6  -  4  &  1  &  1.3199450969696045  &  331   \\
-tabu\_search  &  6  -  4  &  1  &  0.00015997886657714844  &  370   \\
-simulated\_annealing  &  6  -  4  &  1  &  0.00033593177795410156  &  382   \\
-\hline
-brute\_force  &  6  -  4  &  2  &  0.3041110038757324  &  186   \\
-genetic\_algorithm  &  6  -  4  &  2  &  1.2049131393432617  &  231   \\
-evolucionary\_algorithm  &  6  -  4  &  2  &  1.2692780494689941  &  203   \\
-tabu\_search  &  6  -  4  &  2  &  0.0003199577331542969  &  248   \\
-simulated\_annealing  &  6  -  4  &  2  &  0.00048613548278808594  &  384   \\
-\hline
-\hline
-brute\_force  &  7  -  2  &  0  &  0.05563998222351074  &  130   \\
-genetic\_algorithm  &  7  -  2  &  0  &  1.2764689922332764  &  288   \\
-evolucionary\_algorithm  &  7  -  2  &  0  &  1.2753729820251465  &  294   \\
-tabu\_search  &  7  -  2  &  0  &  0.0027000904083251953  &  329   \\
-simulated\_annealing  &  7  -  2  &  0  &  0.0004837512969970703  &  402   \\
-\hline
-brute\_force  &  7  -  2  &  1  &  0.0613248348236084  &  131   \\
-genetic\_algorithm  &  7  -  2  &  1  &  1.220038890838623  &  241   \\
-evolucionary\_algorithm  &  7  -  2  &  1  &  1.3837001323699951  &  181   \\
-tabu\_search  &  7  -  2  &  1  &  0.004467964172363281  &  294   \\
-simulated\_annealing  &  7  -  2  &  1  &  0.0005578994750976562  &  447   \\
-\hline
-brute\_force  &  7  -  2  &  2  &  0.06516289710998535  &  209   \\
-genetic\_algorithm  &  7  -  2  &  2  &  1.3004841804504395  &  325   \\
-evolucionary\_algorithm  &  7  -  2  &  2  &  1.1799941062927246  &  332   \\
-tabu\_search  &  7  -  2  &  2  &  0.0023539066314697266  &  377   \\
-simulated\_annealing  &  7  -  2  &  2  &  0.00048804283142089844  &  475   \\
-\hline
-\hline
-brute\_force  &  7  -  3  &  0  &  0.8228621482849121  &  139   \\
-genetic\_algorithm  &  7  -  3  &  0  &  1.2778980731964111  &  341   \\
-evolucionary\_algorithm  &  7  -  3  &  0  &  1.16975998878479  &  329   \\
-tabu\_search  &  7  -  3  &  0  &  0.00255584716796875  &  439   \\
-simulated\_annealing  &  7  -  3  &  0  &  0.00041794776916503906  &  561   \\
-\hline
-brute\_force  &  7  -  3  &  1  &  0.7858047485351562  &  111   \\
-genetic\_algorithm  &  7  -  3  &  1  &  1.3803598880767822  &  293   \\
-evolucionary\_algorithm  &  7  -  3  &  1  &  1.2040467262268066  &  322   \\
-tabu\_search  &  7  -  3  &  1  &  0.0038568973541259766  &  383   \\
-simulated\_annealing  &  7  -  3  &  1  &  0.00047016143798828125  &  318   \\
-\hline
-brute\_force  &  7  -  3  &  2  &  0.8676338195800781  &  132   \\
-genetic\_algorithm  &  7  -  3  &  2  &  1.1949398517608643  &  338   \\
-evolucionary\_algorithm  &  7  -  3  &  2  &  1.176520824432373  &  300   \\
-tabu\_search  &  7  -  3  &  2  &  0.001501321792602539  &  303   \\
-simulated\_annealing  &  7  -  3  &  2  &  0.0004379749298095703  &  204   \\
-\hline
-\hline
-brute\_force  &  7  -  4  &  0  &  6.71793794631958  &  144   \\
-genetic\_algorithm  &  7  -  4  &  0  &  1.38555908203125  &  320   \\
-evolucionary\_algorithm  &  7  -  4  &  0  &  1.2728281021118164  &  320   \\
-tabu\_search  &  7  -  4  &  0  &  0.0006589889526367188  &  516   \\
-simulated\_annealing  &  7  -  4  &  0  &  0.0004432201385498047  &  361   \\
-\hline
-brute\_force  &  7  -  4  &  1  &  6.243010759353638  &  143   \\
-genetic\_algorithm  &  7  -  4  &  1  &  1.2750449180603027  &  255   \\
-evolucionary\_algorithm  &  7  -  4  &  1  &  1.3512170314788818  &  268   \\
-tabu\_search  &  7  -  4  &  1  &  0.004486083984375  &  525   \\
-simulated\_annealing  &  7  -  4  &  1  &  0.0005292892456054688  &  495   \\
-\hline
-brute\_force  &  7  -  4  &  2  &  6.108915090560913  &  134   \\
-genetic\_algorithm  &  7  -  4  &  2  &  1.2969839572906494  &  224   \\
-evolucionary\_algorithm  &  7  -  4  &  2  &  1.1624119281768799  &  257   \\
-tabu\_search  &  7  -  4  &  2  &  0.005113124847412109  &  489   \\
-simulated\_annealing  &  7  -  4  &  2  &  0.0006127357482910156  &  432   \\
-\hline
-\hline
-brute\_force  &  8  -  2  &  0  &  0.7316231727600098  &  122   \\
-genetic\_algorithm  &  8  -  2  &  0  &  1.2419099807739258  &  190   \\
-evolucionary\_algorithm  &  8  -  2  &  0  &  1.166327953338623  &  161   \\
-tabu\_search  &  8  -  2  &  0  &  0.004472017288208008  &  356   \\
-simulated\_annealing  &  8  -  2  &  0  &  0.0005311965942382812  &  397   \\
-\hline
-brute\_force  &  8  -  2  &  1  &  0.8147890567779541  &  200   \\
-genetic\_algorithm  &  8  -  2  &  1  &  1.2313778400421143  &  254   \\
-evolucionary\_algorithm  &  8  -  2  &  1  &  1.1568357944488525  &  242   \\
-tabu\_search  &  8  -  2  &  1  &  0.004700899124145508  &  576   \\
-simulated\_annealing  &  8  -  2  &  1  &  0.0005350112915039062  &  517   \\
-\hline
-brute\_force  &  8  -  2  &  2  &  0.7518279552459717  &  162   \\
-genetic\_algorithm  &  8  -  2  &  2  &  1.1758489608764648  &  274   \\
-evolucionary\_algorithm  &  8  -  2  &  2  &  1.2308578491210938  &  268   \\
-tabu\_search  &  8  -  2  &  2  &  0.004207134246826172  &  259   \\
-simulated\_annealing  &  8  -  2  &  2  &  0.000537872314453125  &  412   \\
-\hline
-\hline
-brute\_force  &  8  -  3  &  0  &  17.68092918395996  &  159   \\
-genetic\_algorithm  &  8  -  3  &  0  &  1.2484478950500488  &  254   \\
-evolucionary\_algorithm  &  8  -  3  &  0  &  1.264040231704712  &  337   \\
-tabu\_search  &  8  -  3  &  0  &  0.004878044128417969  &  546   \\
-simulated\_annealing  &  8  -  3  &  0  &  0.0005278587341308594  &  520   \\
-\hline
-brute\_force  &  8  -  3  &  1  &  17.9599449634552  &  132   \\
-genetic\_algorithm  &  8  -  3  &  1  &  1.2910401821136475  &  332   \\
-evolucionary\_algorithm  &  8  -  3  &  1  &  1.258976936340332  &  405   \\
-tabu\_search  &  8  -  3  &  1  &  0.0044879913330078125  &  446   \\
-simulated\_annealing  &  8  -  3  &  1  &  0.000518798828125  &  509   \\
-\hline
-brute\_force  &  8  -  3  &  2  &  19.340905904769897  &  187   \\
-genetic\_algorithm  &  8  -  3  &  2  &  1.2045798301696777  &  311   \\
-evolucionary\_algorithm  &  8  -  3  &  2  &  1.2563300132751465  &  344   \\
-tabu\_search  &  8  -  3  &  2  &  0.0048220157623291016  &  295   \\
-simulated\_annealing  &  8  -  3  &  2  &  0.0010449886322021484  &  336   \\
-\hline
-\hline
-brute\_force  &  8  -  4  &  0  &  170.0761170387268  &  132   \\
-genetic\_algorithm  &  8  -  4  &  0  &  1.2899878025054932  &  287   \\
-evolucionary\_algorithm  &  8  -  4  &  0  &  1.333979845046997  &  403   \\
-tabu\_search  &  8  -  4  &  0  &  0.004660844802856445  &  648   \\
-simulated\_annealing  &  8  -  4  &  0  &  0.0007910728454589844  &  582   \\
-\hline
-brute\_force  &  8  -  4  &  1  &  173.29736304283142  &  97   \\
-genetic\_algorithm  &  8  -  4  &  1  &  1.2903709411621094  &  362   \\
-evolucionary\_algorithm  &  8  -  4  &  1  &  1.3020551204681396  &  307   \\
-tabu\_search  &  8  -  4  &  1  &  0.0048351287841796875  &  521   \\
-simulated\_annealing  &  8  -  4  &  1  &  0.0005528926849365234  &  386   \\
-\hline
-brute\_force  &  8  -  4  &  2  &  201.35523772239685  &  171   \\
-genetic\_algorithm  &  8  -  4  &  2  &  1.7309751510620117  &  358   \\
-evolucionary\_algorithm  &  8  -  4  &  2  &  1.6867518424987793  &  318   \\
-tabu\_search  &  8  -  4  &  2  &  0.0056610107421875  &  426   \\
-simulated\_annealing  &  8  -  4  &  2  &  0.0007050037384033203  &  451   \\
-\hline
-\hline
-brute\_force  &  9  -  2  &  0  &  13.54535722732544  &  160   \\
-genetic\_algorithm  &  9  -  2  &  0  &  1.4930272102355957  &  381   \\
-evolucionary\_algorithm  &  9  -  2  &  0  &  1.6222310066223145  &  447   \\
-tabu\_search  &  9  -  2  &  0  &  0.011322021484375  &  571   \\
-simulated\_annealing  &  9  -  2  &  0  &  0.001123666763305664  &  437   \\
-\hline
-brute\_force  &  9  -  2  &  1  &  15.69736385345459  &  189   \\
-genetic\_algorithm  &  9  -  2  &  1  &  1.6408412456512451  &  332   \\
-evolucionary\_algorithm  &  9  -  2  &  1  &  1.5488479137420654  &  317   \\
-tabu\_search  &  9  -  2  &  1  &  0.008111238479614258  &  421   \\
-simulated\_annealing  &  9  -  2  &  1  &  0.0008559226989746094  &  490   \\
-\hline
-brute\_force  &  9  -  2  &  2  &  15.384528875350952  &  214   \\
-genetic\_algorithm  &  9  -  2  &  2  &  1.4336931705474854  &  291   \\
-evolucionary\_algorithm  &  9  -  2  &  2  &  1.3853037357330322  &  344   \\
-tabu\_search  &  9  -  2  &  2  &  0.0075528621673583984  &  446   \\
-simulated\_annealing  &  9  -  2  &  2  &  0.0008590221405029297  &  302   \\
-\hline
-\hline
-brute\_force  &  9  -  3  &  0  &  478.34291195869446  &  130   \\
-genetic\_algorithm  &  9  -  3  &  0  &  1.832427978515625  &  375   \\
-evolucionary\_algorithm  &  9  -  3  &  0  &  1.588792085647583  &  433   \\
-tabu\_search  &  9  -  3  &  0  &  0.00818777084350586  &  417   \\
-simulated\_annealing  &  9  -  3  &  0  &  0.0008978843688964844  &  401   \\
-\hline
-brute\_force  &  9  -  3  &  1  &  506.3347680568695  &  143   \\
-genetic\_algorithm  &  9  -  3  &  1  &  1.4898579120635986  &  527   \\
-evolucionary\_algorithm  &  9  -  3  &  1  &  1.4578499794006348  &  493   \\
-tabu\_search  &  9  -  3  &  1  &  0.0078008174896240234  &  703   \\
-simulated\_annealing  &  9  -  3  &  1  &  0.0008831024169921875  &  673   \\
-\hline
-brute\_force  &  9  -  3  &  2  &  533.2272689342499  &  146   \\
-genetic\_algorithm  &  9  -  3  &  2  &  1.9646990299224854  &  398   \\
-evolucionary\_algorithm  &  9  -  3  &  2  &  1.7038931846618652  &  276   \\
-tabu\_search  &  9  -  3  &  2  &  0.008800983428955078  &  430   \\
-simulated\_annealing  &  9  -  3  &  2  &  0.0009989738464355469  &  401   \\
+brute\_force  &  3  -  2  &  0  &  5.412101745605469e-05  &  99   \\
+genetic\_algorithm  &  3  -  2  &  0  &  1.3291656970977783  &  186   \\
+evolucionary\_algorithm  &  3  -  2  &  0  &  1.3020470142364502  &  186   \\
+tabu\_search  &  3  -  2  &  0  &  3.695487976074219e-05  &  222   \\
+simulated\_annealing  &  3  -  2  &  0  &  8.487701416015625e-05  &  162   \\
+\hline
+brute\_force  &  3  -  2  &  1  &  2.7894973754882812e-05  &  102   \\
+genetic\_algorithm  &  3  -  2  &  1  &  1.359969139099121  &  221   \\
+evolucionary\_algorithm  &  3  -  2  &  1  &  2.261741876602173  &  221   \\
+tabu\_search  &  3  -  2  &  1  &  4.601478576660156e-05  &  288   \\
+simulated\_annealing  &  3  -  2  &  1  &  9.322166442871094e-05  &  172   \\
+\hline
+brute\_force  &  3  -  2  &  2  &  2.4080276489257812e-05  &  160   \\
+genetic\_algorithm  &  3  -  2  &  2  &  1.3442959785461426  &  197   \\
+evolucionary\_algorithm  &  3  -  2  &  2  &  1.1794869899749756  &  197   \\
+tabu\_search  &  3  -  2  &  2  &  3.5762786865234375e-05  &  321   \\
+simulated\_annealing  &  3  -  2  &  2  &  7.128715515136719e-05  &  220   \\
+\hline
+\hline
+brute\_force  &  3  -  3  &  0  &  4.601478576660156e-05  &  112   \\
+genetic\_algorithm  &  3  -  3  &  0  &  1.2812762260437012  &  188   \\
+evolucionary\_algorithm  &  3  -  3  &  0  &  1.146139144897461  &  188   \\
+tabu\_search  &  3  -  3  &  0  &  3.5762786865234375e-05  &  254   \\
+simulated\_annealing  &  3  -  3  &  0  &  6.914138793945312e-05  &  137   \\
+\hline
+brute\_force  &  3  -  3  &  1  &  3.886222839355469e-05  &  139   \\
+genetic\_algorithm  &  3  -  3  &  1  &  1.3963558673858643  &  162   \\
+evolucionary\_algorithm  &  3  -  3  &  1  &  1.4214756488800049  &  162   \\
+tabu\_search  &  3  -  3  &  1  &  5.698204040527344e-05  &  313   \\
+simulated\_annealing  &  3  -  3  &  1  &  8.606910705566406e-05  &  237   \\
+\hline
+brute\_force  &  3  -  3  &  2  &  4.7206878662109375e-05  &  126   \\
+genetic\_algorithm  &  3  -  3  &  2  &  1.4493107795715332  &  141   \\
+evolucionary\_algorithm  &  3  -  3  &  2  &  1.3794348239898682  &  141   \\
+tabu\_search  &  3  -  3  &  2  &  6.29425048828125e-05  &  258   \\
+simulated\_annealing  &  3  -  3  &  2  &  0.00016999244689941406  &  159   \\
+\hline
+\hline
+brute\_force  &  3  -  4  &  0  &  8.511543273925781e-05  &  156   \\
+genetic\_algorithm  &  3  -  4  &  0  &  1.3464219570159912  &  156   \\
+evolucionary\_algorithm  &  3  -  4  &  0  &  1.1907191276550293  &  156   \\
+tabu\_search  &  3  -  4  &  0  &  3.886222839355469e-05  &  221   \\
+simulated\_annealing  &  3  -  4  &  0  &  8.606910705566406e-05  &  341   \\
+\hline
+brute\_force  &  3  -  4  &  1  &  8.606910705566406e-05  &  136   \\
+genetic\_algorithm  &  3  -  4  &  1  &  2.1262059211730957  &  165   \\
+evolucionary\_algorithm  &  3  -  4  &  1  &  1.2283000946044922  &  165   \\
+tabu\_search  &  3  -  4  &  1  &  3.1948089599609375e-05  &  278   \\
+simulated\_annealing  &  3  -  4  &  1  &  6.604194641113281e-05  &  222   \\
+\hline
+brute\_force  &  3  -  4  &  2  &  7.605552673339844e-05  &  108   \\
+genetic\_algorithm  &  3  -  4  &  2  &  1.219635009765625  &  223   \\
+evolucionary\_algorithm  &  3  -  4  &  2  &  1.2238948345184326  &  223   \\
+tabu\_search  &  3  -  4  &  2  &  3.409385681152344e-05  &  161   \\
+simulated\_annealing  &  3  -  4  &  2  &  7.200241088867188e-05  &  234   \\
+\hline
+\hline
+brute\_force  &  4  -  2  &  0  &  7.009506225585938e-05  &  149   \\
+genetic\_algorithm  &  4  -  2  &  0  &  1.3045709133148193  &  149   \\
+evolucionary\_algorithm  &  4  -  2  &  0  &  1.2670071125030518  &  149   \\
+tabu\_search  &  4  -  2  &  0  &  4.601478576660156e-05  &  431   \\
+simulated\_annealing  &  4  -  2  &  0  &  0.00011801719665527344  &  305   \\
+\hline
+brute\_force  &  4  -  2  &  1  &  8.320808410644531e-05  &  183   \\
+genetic\_algorithm  &  4  -  2  &  1  &  1.3613030910491943  &  183   \\
+evolucionary\_algorithm  &  4  -  2  &  1  &  1.3086907863616943  &  183   \\
+tabu\_search  &  4  -  2  &  1  &  7.700920104980469e-05  &  243   \\
+simulated\_annealing  &  4  -  2  &  1  &  0.00012302398681640625  &  300   \\
+\hline
+brute\_force  &  4  -  2  &  2  &  7.700920104980469e-05  &  131   \\
+genetic\_algorithm  &  4  -  2  &  2  &  1.791175127029419  &  279   \\
+evolucionary\_algorithm  &  4  -  2  &  2  &  1.6275041103363037  &  279   \\
+tabu\_search  &  4  -  2  &  2  &  4.9114227294921875e-05  &  353   \\
+simulated\_annealing  &  4  -  2  &  2  &  0.00012302398681640625  &  327   \\
+\hline
+\hline
+brute\_force  &  4  -  3  &  0  &  0.00032806396484375  &  100   \\
+genetic\_algorithm  &  4  -  3  &  0  &  1.3135488033294678  &  100   \\
+evolucionary\_algorithm  &  4  -  3  &  0  &  1.3024680614471436  &  100   \\
+tabu\_search  &  4  -  3  &  0  &  4.792213439941406e-05  &  385   \\
+simulated\_annealing  &  4  -  3  &  0  &  0.00015997886657714844  &  348   \\
+\hline
+brute\_force  &  4  -  3  &  1  &  0.0002849102020263672  &  60   \\
+genetic\_algorithm  &  4  -  3  &  1  &  1.3998408317565918  &  60   \\
+evolucionary\_algorithm  &  4  -  3  &  1  &  1.2522621154785156  &  60   \\
+tabu\_search  &  4  -  3  &  1  &  4.291534423828125e-05  &  147   \\
+simulated\_annealing  &  4  -  3  &  1  &  0.00011706352233886719  &  218   \\
+\hline
+brute\_force  &  4  -  3  &  2  &  0.00030803680419921875  &  138   \\
+genetic\_algorithm  &  4  -  3  &  2  &  1.228579044342041  &  239   \\
+evolucionary\_algorithm  &  4  -  3  &  2  &  1.2351150512695312  &  239   \\
+tabu\_search  &  4  -  3  &  2  &  4.100799560546875e-05  &  416   \\
+simulated\_annealing  &  4  -  3  &  2  &  0.00010395050048828125  &  338   \\
+\hline
+\hline
+brute\_force  &  4  -  4  &  0  &  0.0006902217864990234  &  81   \\
+genetic\_algorithm  &  4  -  4  &  0  &  1.2472829818725586  &  131   \\
+evolucionary\_algorithm  &  4  -  4  &  0  &  1.1823251247406006  &  131   \\
+tabu\_search  &  4  -  4  &  0  &  3.910064697265625e-05  &  255   \\
+simulated\_annealing  &  4  -  4  &  0  &  0.0001049041748046875  &  395   \\
+\hline
+brute\_force  &  4  -  4  &  1  &  0.0007469654083251953  &  126   \\
+genetic\_algorithm  &  4  -  4  &  1  &  1.3500657081604004  &  160   \\
+evolucionary\_algorithm  &  4  -  4  &  1  &  1.2631330490112305  &  160   \\
+tabu\_search  &  4  -  4  &  1  &  4.1961669921875e-05  &  320   \\
+simulated\_annealing  &  4  -  4  &  1  &  0.00010395050048828125  &  332   \\
+\hline
+brute\_force  &  4  -  4  &  2  &  0.0007810592651367188  &  161   \\
+genetic\_algorithm  &  4  -  4  &  2  &  1.1916170120239258  &  208   \\
+evolucionary\_algorithm  &  4  -  4  &  2  &  1.1966791152954102  &  205   \\
+tabu\_search  &  4  -  4  &  2  &  3.814697265625e-05  &  327   \\
+simulated\_annealing  &  4  -  4  &  2  &  0.00010514259338378906  &  510   \\
+\hline
+\hline
+brute\_force  &  5  -  2  &  0  &  0.00048089027404785156  &  152   \\
+genetic\_algorithm  &  5  -  2  &  0  &  1.237684965133667  &  180   \\
+evolucionary\_algorithm  &  5  -  2  &  0  &  1.1754088401794434  &  180   \\
+tabu\_search  &  5  -  2  &  0  &  9.202957153320312e-05  &  345   \\
+simulated\_annealing  &  5  -  2  &  0  &  0.00026488304138183594  &  333   \\
+\hline
+brute\_force  &  5  -  2  &  1  &  0.0005178451538085938  &  227   \\
+genetic\_algorithm  &  5  -  2  &  1  &  1.2312159538269043  &  237   \\
+evolucionary\_algorithm  &  5  -  2  &  1  &  1.2149271965026855  &  245   \\
+tabu\_search  &  5  -  2  &  1  &  0.00010704994201660156  &  404   \\
+simulated\_annealing  &  5  -  2  &  1  &  0.0003230571746826172  &  377   \\
+\hline
+brute\_force  &  5  -  2  &  2  &  0.0005428791046142578  &  142   \\
+genetic\_algorithm  &  5  -  2  &  2  &  1.204615831375122  &  178   \\
+evolucionary\_algorithm  &  5  -  2  &  2  &  1.1899051666259766  &  178   \\
+tabu\_search  &  5  -  2  &  2  &  9.107589721679688e-05  &  348   \\
+simulated\_annealing  &  5  -  2  &  2  &  0.0002880096435546875  &  342   \\
+\hline
+\hline
+brute\_force  &  5  -  3  &  0  &  0.0031921863555908203  &  146   \\
+genetic\_algorithm  &  5  -  3  &  0  &  1.236175775527954  &  176   \\
+evolucionary\_algorithm  &  5  -  3  &  0  &  1.173262119293213  &  217   \\
+tabu\_search  &  5  -  3  &  0  &  9.298324584960938e-05  &  368   \\
+simulated\_annealing  &  5  -  3  &  0  &  0.00027108192443847656  &  357   \\
+\hline
+brute\_force  &  5  -  3  &  1  &  0.0028328895568847656  &  84   \\
+genetic\_algorithm  &  5  -  3  &  1  &  1.2395341396331787  &  194   \\
+evolucionary\_algorithm  &  5  -  3  &  1  &  1.2212908267974854  &  194   \\
+tabu\_search  &  5  -  3  &  1  &  0.00010609626770019531  &  310   \\
+simulated\_annealing  &  5  -  3  &  1  &  0.0003249645233154297  &  406   \\
+\hline
+brute\_force  &  5  -  3  &  2  &  0.0028939247131347656  &  104   \\
+genetic\_algorithm  &  5  -  3  &  2  &  1.2386937141418457  &  263   \\
+evolucionary\_algorithm  &  5  -  3  &  2  &  1.225696086883545  &  256   \\
+tabu\_search  &  5  -  3  &  2  &  9.799003601074219e-05  &  274   \\
+simulated\_annealing  &  5  -  3  &  2  &  0.0002999305725097656  &  359   \\
+\hline
+\hline
+brute\_force  &  5  -  4  &  0  &  0.012367963790893555  &  95   \\
+genetic\_algorithm  &  5  -  4  &  0  &  1.2841770648956299  &  116   \\
+evolucionary\_algorithm  &  5  -  4  &  0  &  1.203874111175537  &  141   \\
+tabu\_search  &  5  -  4  &  0  &  0.0001049041748046875  &  426   \\
+simulated\_annealing  &  5  -  4  &  0  &  0.0003190040588378906  &  453   \\
+\hline
+brute\_force  &  5  -  4  &  1  &  0.014150142669677734  &  137   \\
+genetic\_algorithm  &  5  -  4  &  1  &  1.2563540935516357  &  151   \\
+evolucionary\_algorithm  &  5  -  4  &  1  &  1.2019259929656982  &  168   \\
+tabu\_search  &  5  -  4  &  1  &  9.703636169433594e-05  &  460   \\
+simulated\_annealing  &  5  -  4  &  1  &  0.00027823448181152344  &  329   \\
+\hline
+brute\_force  &  5  -  4  &  2  &  0.013682126998901367  &  158   \\
+genetic\_algorithm  &  5  -  4  &  2  &  1.2282240390777588  &  253   \\
+evolucionary\_algorithm  &  5  -  4  &  2  &  1.2135989665985107  &  271   \\
+tabu\_search  &  5  -  4  &  2  &  9.012222290039062e-05  &  378   \\
+simulated\_annealing  &  5  -  4  &  2  &  0.0002796649932861328  &  395   \\
+\hline
+\hline
+brute\_force  &  6  -  2  &  0  &  0.004912853240966797  &  214   \\
+genetic\_algorithm  &  6  -  2  &  0  &  1.247527837753296  &  279   \\
+evolucionary\_algorithm  &  6  -  2  &  0  &  1.1897180080413818  &  281   \\
+tabu\_search  &  6  -  2  &  0  &  0.00016689300537109375  &  446   \\
+simulated\_annealing  &  6  -  2  &  0  &  0.00041794776916503906  &  412   \\
+\hline
+brute\_force  &  6  -  2  &  1  &  0.0048520565032958984  &  137   \\
+genetic\_algorithm  &  6  -  2  &  1  &  1.2620849609375  &  189   \\
+evolucionary\_algorithm  &  6  -  2  &  1  &  1.3030638694763184  &  164   \\
+tabu\_search  &  6  -  2  &  1  &  0.00016999244689941406  &  387   \\
+simulated\_annealing  &  6  -  2  &  1  &  0.00035190582275390625  &  198   \\
+\hline
+brute\_force  &  6  -  2  &  2  &  0.004622936248779297  &  120   \\
+genetic\_algorithm  &  6  -  2  &  2  &  1.2149529457092285  &  192   \\
+evolucionary\_algorithm  &  6  -  2  &  2  &  1.2335178852081299  &  213   \\
+tabu\_search  &  6  -  2  &  2  &  0.00025272369384765625  &  373   \\
+simulated\_annealing  &  6  -  2  &  2  &  0.0003898143768310547  &  479   \\
+\hline
+\hline
+brute\_force  &  6  -  3  &  0  &  0.0524749755859375  &  127   \\
+genetic\_algorithm  &  6  -  3  &  0  &  1.314605951309204  &  203   \\
+evolucionary\_algorithm  &  6  -  3  &  0  &  1.1907997131347656  &  183   \\
+tabu\_search  &  6  -  3  &  0  &  0.0002200603485107422  &  351   \\
+simulated\_annealing  &  6  -  3  &  0  &  0.0004298686981201172  &  338   \\
+\hline
+brute\_force  &  6  -  3  &  1  &  0.04930615425109863  &  135   \\
+genetic\_algorithm  &  6  -  3  &  1  &  1.2439260482788086  &  202   \\
+evolucionary\_algorithm  &  6  -  3  &  1  &  1.2249510288238525  &  173   \\
+tabu\_search  &  6  -  3  &  1  &  0.0002429485321044922  &  311   \\
+simulated\_annealing  &  6  -  3  &  1  &  0.00039505958557128906  &  428   \\
+\hline
+brute\_force  &  6  -  3  &  2  &  0.056941986083984375  &  213   \\
+genetic\_algorithm  &  6  -  3  &  2  &  1.241912841796875  &  226   \\
+evolucionary\_algorithm  &  6  -  3  &  2  &  1.247114896774292  &  245   \\
+tabu\_search  &  6  -  3  &  2  &  0.00018930435180664062  &  492   \\
+simulated\_annealing  &  6  -  3  &  2  &  0.00033736228942871094  &  388   \\
+\hline
+\hline
+brute\_force  &  6  -  4  &  0  &  0.21653223037719727  &  60   \\
+genetic\_algorithm  &  6  -  4  &  0  &  1.2753710746765137  &  125   \\
+evolucionary\_algorithm  &  6  -  4  &  0  &  1.1949892044067383  &  146   \\
+tabu\_search  &  6  -  4  &  0  &  0.00021576881408691406  &  451   \\
+simulated\_annealing  &  6  -  4  &  0  &  0.0003287792205810547  &  403   \\
+\hline
+brute\_force  &  6  -  4  &  1  &  0.26843905448913574  &  148   \\
+genetic\_algorithm  &  6  -  4  &  1  &  1.2800321578979492  &  308   \\
+evolucionary\_algorithm  &  6  -  4  &  1  &  1.232832908630371  &  253   \\
+tabu\_search  &  6  -  4  &  1  &  0.00022792816162109375  &  448   \\
+simulated\_annealing  &  6  -  4  &  1  &  0.0003590583801269531  &  510   \\
+\hline
+brute\_force  &  6  -  4  &  2  &  0.25243592262268066  &  128   \\
+genetic\_algorithm  &  6  -  4  &  2  &  1.2590582370758057  &  164   \\
+evolucionary\_algorithm  &  6  -  4  &  2  &  1.2450487613677979  &  207   \\
+tabu\_search  &  6  -  4  &  2  &  0.00022339820861816406  &  378   \\
+simulated\_annealing  &  6  -  4  &  2  &  0.0003483295440673828  &  351   \\
+\hline
+\hline
+brute\_force  &  7  -  2  &  0  &  0.06450104713439941  &  226   \\
+genetic\_algorithm  &  7  -  2  &  0  &  1.2595741748809814  &  257   \\
+evolucionary\_algorithm  &  7  -  2  &  0  &  1.1848289966583252  &  266   \\
+tabu\_search  &  7  -  2  &  0  &  0.0044498443603515625  &  540   \\
+simulated\_annealing  &  7  -  2  &  0  &  0.0005292892456054688  &  371   \\
+\hline
+brute\_force  &  7  -  2  &  1  &  0.05397486686706543  &  132   \\
+genetic\_algorithm  &  7  -  2  &  1  &  1.2765982151031494  &  233   \\
+evolucionary\_algorithm  &  7  -  2  &  1  &  1.238044261932373  &  195   \\
+tabu\_search  &  7  -  2  &  1  &  0.0009670257568359375  &  328   \\
+simulated\_annealing  &  7  -  2  &  1  &  0.00046181678771972656  &  329   \\
+\hline
+brute\_force  &  7  -  2  &  2  &  0.06332063674926758  &  209   \\
+genetic\_algorithm  &  7  -  2  &  2  &  1.239548921585083  &  242   \\
+evolucionary\_algorithm  &  7  -  2  &  2  &  1.2437303066253662  &  256   \\
+tabu\_search  &  7  -  2  &  2  &  0.0009179115295410156  &  498   \\
+simulated\_annealing  &  7  -  2  &  2  &  0.00048279762268066406  &  455   \\
+\hline
+\hline
+brute\_force  &  7  -  3  &  0  &  1.0563719272613525  &  239   \\
+genetic\_algorithm  &  7  -  3  &  0  &  1.2794311046600342  &  329   \\
+evolucionary\_algorithm  &  7  -  3  &  0  &  1.2080271244049072  &  288   \\
+tabu\_search  &  7  -  3  &  0  &  0.004442930221557617  &  627   \\
+simulated\_annealing  &  7  -  3  &  0  &  0.00047779083251953125  &  476   \\
+\hline
+brute\_force  &  7  -  3  &  1  &  0.9363620281219482  &  189   \\
+genetic\_algorithm  &  7  -  3  &  1  &  1.3509540557861328  &  288   \\
+evolucionary\_algorithm  &  7  -  3  &  1  &  1.2707631587982178  &  283   \\
+tabu\_search  &  7  -  3  &  1  &  0.004734992980957031  &  370   \\
+simulated\_annealing  &  7  -  3  &  1  &  0.0008540153503417969  &  425   \\
+\hline
+brute\_force  &  7  -  3  &  2  &  0.9031639099121094  &  158   \\
+genetic\_algorithm  &  7  -  3  &  2  &  1.2685198783874512  &  262   \\
+evolucionary\_algorithm  &  7  -  3  &  2  &  1.2746450901031494  &  235   \\
+tabu\_search  &  7  -  3  &  2  &  0.0011470317840576172  &  486   \\
+simulated\_annealing  &  7  -  3  &  2  &  0.0005612373352050781  &  559   \\
+\hline
+\hline
+brute\_force  &  7  -  4  &  0  &  5.6363818645477295  &  76   \\
+genetic\_algorithm  &  7  -  4  &  0  &  1.2711381912231445  &  277   \\
+evolucionary\_algorithm  &  7  -  4  &  0  &  1.2257647514343262  &  318   \\
+tabu\_search  &  7  -  4  &  0  &  0.003943920135498047  &  282   \\
+simulated\_annealing  &  7  -  4  &  0  &  0.0004730224609375  &  375   \\
+\hline
+brute\_force  &  7  -  4  &  1  &  6.089732885360718  &  133   \\
+genetic\_algorithm  &  7  -  4  &  1  &  1.2753081321716309  &  311   \\
+evolucionary\_algorithm  &  7  -  4  &  1  &  1.2583999633789062  &  315   \\
+tabu\_search  &  7  -  4  &  1  &  0.0006170272827148438  &  551   \\
+simulated\_annealing  &  7  -  4  &  1  &  0.0004749298095703125  &  424   \\
+\hline
+brute\_force  &  7  -  4  &  2  &  6.24392294883728  &  136   \\
+genetic\_algorithm  &  7  -  4  &  2  &  1.2218718528747559  &  265   \\
+evolucionary\_algorithm  &  7  -  4  &  2  &  1.3442471027374268  &  282   \\
+tabu\_search  &  7  -  4  &  2  &  0.003902912139892578  &  417   \\
+simulated\_annealing  &  7  -  4  &  2  &  0.00049591064453125  &  463   \\
+\hline
+\hline
+brute\_force  &  8  -  2  &  0  &  0.7374131679534912  &  130   \\
+genetic\_algorithm  &  8  -  2  &  0  &  1.271299123764038  &  376   \\
+evolucionary\_algorithm  &  8  -  2  &  0  &  1.200143814086914  &  380   \\
+tabu\_search  &  8  -  2  &  0  &  0.004458904266357422  &  382   \\
+simulated\_annealing  &  8  -  2  &  0  &  0.0005357265472412109  &  390   \\
+\hline
+brute\_force  &  8  -  2  &  1  &  0.7859938144683838  &  176   \\
+genetic\_algorithm  &  8  -  2  &  1  &  1.2569029331207275  &  312   \\
+evolucionary\_algorithm  &  8  -  2  &  1  &  1.270751953125  &  250   \\
+tabu\_search  &  8  -  2  &  1  &  0.00579380989074707  &  491   \\
+simulated\_annealing  &  8  -  2  &  1  &  0.0009632110595703125  &  468   \\
+\hline
+brute\_force  &  8  -  2  &  2  &  0.7240760326385498  &  143   \\
+genetic\_algorithm  &  8  -  2  &  2  &  1.2298710346221924  &  332   \\
+evolucionary\_algorithm  &  8  -  2  &  2  &  1.246183156967163  &  364   \\
+tabu\_search  &  8  -  2  &  2  &  0.0045146942138671875  &  412   \\
+simulated\_annealing  &  8  -  2  &  2  &  0.0005931854248046875  &  505   \\
+\hline
+\hline
+brute\_force  &  8  -  3  &  0  &  17.8694109916687  &  119   \\
+genetic\_algorithm  &  8  -  3  &  0  &  1.2603631019592285  &  356   \\
+evolucionary\_algorithm  &  8  -  3  &  0  &  1.3086628913879395  &  312   \\
+tabu\_search  &  8  -  3  &  0  &  0.0060269832611083984  &  504   \\
+simulated\_annealing  &  8  -  3  &  0  &  0.0006458759307861328  &  457   \\
+\hline
+brute\_force  &  8  -  3  &  1  &  19.42444896697998  &  167   \\
+genetic\_algorithm  &  8  -  3  &  1  &  1.2108674049377441  &  304   \\
+evolucionary\_algorithm  &  8  -  3  &  1  &  1.2044520378112793  &  333   \\
+tabu\_search  &  8  -  3  &  1  &  0.00474095344543457  &  480   \\
+simulated\_annealing  &  8  -  3  &  1  &  0.0005488395690917969  &  372   \\
+\hline
+brute\_force  &  8  -  3  &  2  &  19.941742181777954  &  189   \\
+genetic\_algorithm  &  8  -  3  &  2  &  1.167201042175293  &  415   \\
+evolucionary\_algorithm  &  8  -  3  &  2  &  1.1962831020355225  &  303   \\
+tabu\_search  &  8  -  3  &  2  &  0.004658937454223633  &  596   \\
+simulated\_annealing  &  8  -  3  &  2  &  0.0007991790771484375  &  475   \\
+\hline
+\hline
+brute\_force  &  8  -  4  &  0  &  174.44684600830078  &  144   \\
+genetic\_algorithm  &  8  -  4  &  0  &  1.2159011363983154  &  365   \\
+evolucionary\_algorithm  &  8  -  4  &  0  &  1.142552137374878  &  326   \\
+tabu\_search  &  8  -  4  &  0  &  0.00462794303894043  &  539   \\
+simulated\_annealing  &  8  -  4  &  0  &  0.0005438327789306641  &  454   \\
+\hline
+brute\_force  &  8  -  4  &  1  &  180.8446102142334  &  167   \\
+genetic\_algorithm  &  8  -  4  &  1  &  1.1978492736816406  &  325   \\
+evolucionary\_algorithm  &  8  -  4  &  1  &  1.2063961029052734  &  330   \\
+tabu\_search  &  8  -  4  &  1  &  0.004392147064208984  &  450   \\
+simulated\_annealing  &  8  -  4  &  1  &  0.0006537437438964844  &  589   \\
+\hline
+brute\_force  &  8  -  4  &  2  &  178.81642603874207  &  156   \\
+genetic\_algorithm  &  8  -  4  &  2  &  1.1855831146240234  &  413   \\
+evolucionary\_algorithm  &  8  -  4  &  2  &  1.1913142204284668  &  330   \\
+tabu\_search  &  8  -  4  &  2  &  0.004471778869628906  &  530   \\
+simulated\_annealing  &  8  -  4  &  2  &  0.0005419254302978516  &  477   \\
+\hline
+\hline
+brute\_force  &  9  -  2  &  0  &  13.216864109039307  &  204   \\
+genetic\_algorithm  &  9  -  2  &  0  &  1.2006120681762695  &  346   \\
+evolucionary\_algorithm  &  9  -  2  &  0  &  1.1480262279510498  &  322   \\
+tabu\_search  &  9  -  2  &  0  &  0.006228923797607422  &  476   \\
+simulated\_annealing  &  9  -  2  &  0  &  0.0007469654083251953  &  534   \\
+\hline
+brute\_force  &  9  -  2  &  1  &  13.926792860031128  &  231   \\
+genetic\_algorithm  &  9  -  2  &  1  &  1.2013359069824219  &  360   \\
+evolucionary\_algorithm  &  9  -  2  &  1  &  1.2093257904052734  &  360   \\
+tabu\_search  &  9  -  2  &  1  &  0.005855083465576172  &  578   \\
+simulated\_annealing  &  9  -  2  &  1  &  0.000698089599609375  &  471   \\
+\hline
+brute\_force  &  9  -  2  &  2  &  11.245200872421265  &  153   \\
+genetic\_algorithm  &  9  -  2  &  2  &  1.1795811653137207  &  362   \\
+evolucionary\_algorithm  &  9  -  2  &  2  &  1.1945128440856934  &  361   \\
+tabu\_search  &  9  -  2  &  2  &  0.0068819522857666016  &  328   \\
+simulated\_annealing  &  9  -  2  &  2  &  0.0006978511810302734  &  416   \\
+\hline
+\hline
+brute\_force  &  9  -  3  &  0  &  493.90284991264343  &  139   \\
+genetic\_algorithm  &  9  -  3  &  0  &  1.2399382591247559  &  454   \\
+evolucionary\_algorithm  &  9  -  3  &  0  &  1.2220170497894287  &  423   \\
+tabu\_search  &  9  -  3  &  0  &  0.006768226623535156  &  537   \\
+simulated\_annealing  &  9  -  3  &  0  &  0.0007891654968261719  &  471   \\
+\hline
+brute\_force  &  9  -  3  &  1  &  445.74506282806396  &  177   \\
+genetic\_algorithm  &  9  -  3  &  1  &  1.2052030563354492  &  454   \\
+evolucionary\_algorithm  &  9  -  3  &  1  &  1.1604909896850586  &  420   \\
+tabu\_search  &  9  -  3  &  1  &  0.005966901779174805  &  549   \\
+simulated\_annealing  &  9  -  3  &  1  &  0.0007119178771972656  &  543   \\
+\hline
+brute\_force  &  9  -  3  &  2  &  466.5500748157501  &  190   \\
+genetic\_algorithm  &  9  -  3  &  2  &  1.2446162700653076  &  508   \\
+evolucionary\_algorithm  &  9  -  3  &  2  &  1.285329818725586  &  515   \\
+tabu\_search  &  9  -  3  &  2  &  0.006006002426147461  &  443   \\
+simulated\_annealing  &  9  -  3  &  2  &  0.0007112026214599609  &  581   \\
+\hline
+\hline
+brute\_force  &  9  -  4  &  0  &  6374.771116018295  &  171   \\
+genetic\_algorithm  &  9  -  4  &  0  &  1.425189733505249  &  457   \\
+evolucionary\_algorithm  &  9  -  4  &  0  &  1.4842188358306885  &  444   \\
+tabu\_search  &  9  -  4  &  0  &  0.007068157196044922  &  456   \\
+simulated\_annealing  &  9  -  4  &  0  &  0.0007290840148925781  &  567   \\
 \hline
